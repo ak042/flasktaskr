@@ -46,7 +46,7 @@ class MainTests(unittest.TestCase):
                 "Run around in circles",
                 date(2015, 1, 22),
                 10,
-                date(2015, 1, 05),
+                date(2015, 1, 5),
                 1,
                 1
             )
@@ -58,7 +58,7 @@ class MainTests(unittest.TestCase):
                 "Purchase Real Python",
                 date(2016, 2, 23),
                 10,
-                date(2016, 2, 07),
+                date(2016, 2, 7),
                 1,
                 1
             )

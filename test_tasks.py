@@ -282,7 +282,7 @@ class TasksTests(unittest.TestCase):
                 "Run around in circles",
                 date(2015, 1, 22),
                 10,
-                date(2015, 1, 05),
+                date(2015, 1, 5),
                 1,
                 1
             )

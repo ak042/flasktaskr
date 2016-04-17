@@ -22,4 +22,4 @@ deploy:
   app: flasktaskr
   on:
     branch: master
-    repo: realpython/flasktaskr_project
+    repo: realpython/flasktaskr
